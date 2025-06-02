@@ -19,7 +19,7 @@
     "@solana/buffer-layout-utils": "^0.2.0",
     "@solana/spl-token": "^0.4.13",
     "@solana/web3.js": "^1.98.0",
-    "@triton-one/yellowstone-grpc": "^3.0.0",
+    "@triton-one/yellowstone-grpc": "^4.0.2",
     "chalk": "^5.4.1",
     "dotenv": "^16.4.7",
     "lodash": "^4.17.21",
