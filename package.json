@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.17.16",
-    "@types/node": "^22.13.11",
+    "@types/node": "^24.0.3",
     "@types/node-telegram-bot-api": "^0.64.8",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
